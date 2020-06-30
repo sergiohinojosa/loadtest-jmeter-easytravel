@@ -1,0 +1,11 @@
+camera
+memory
+cord
+dog
+test
+ac
+adapter
+power
+suply
+battery
+flash
